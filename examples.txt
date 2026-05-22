@@ -1,0 +1,39 @@
+============================================================
+🤖 MULTI-CAPABILITY AI ASSISTANT - EXAMPLES
+============================================================
+
+🧮 CALCULATOR
+----------------------------
+What is 12 * (5 + 3)
+Calculate 25% of 160
+10 + 20 * 5
+
+🔄 UNIT CONVERSION
+----------------------------
+Convert 10 km to miles
+Convert 100 Celsius to Fahrenheit
+Convert 5 kg to lbs
+Convert 60 mph to kph
+
+🌤 WEATHER
+----------------------------
+weather in karachi
+weather in london
+weather in new york
+
+🌐 TRANSLATION
+----------------------------
+translate hello to french
+translate good morning to spanish
+translate world to french
+
+📊 DATA ANALYSIS
+----------------------------
+average of [10, 20, 30, 40]
+max of [5, 99, 23, 1]
+sum of [1, 2, 3, 4, 5]
+
+💡 MIXED REQUESTS
+----------------------------
+Convert 10 km to miles and tell me weather in karachi
+Translate hello to french and calculate 25% of 200
